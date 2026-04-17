@@ -64,21 +64,6 @@ E-mail: admin@demo.com
 Senha: admin123
 ```
 
-## Checklist para a entrega da atividade
-
-- Publicar a aplicação em link público funcional.
-- Disponibilizar o repositório em modo público.
-- Produzir no PDF final:
-  - Introdução e objetivos.
-  - Requisitos funcionais e não funcionais.
-  - Diagrama de casos de uso.
-  - Descrição de uma feature com fluxo principal.
-  - Jornada do usuário.
-  - Wireframes mobile e desktop.
-  - Evidências de LGPD na interface.
-  - Plano de testes com pelo menos 10 cenários.
-  - Conclusão técnica.
-
 ## Documentos de apoio já preparados
 
 - `docs/diagramas-atividade.md`: diagrama de casos de uso, descrição da feature e jornada do usuário.
